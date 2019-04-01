@@ -1,5 +1,5 @@
 # EmployeeManager
-Use Spring Boot , Have Responsive , Ajax data
+Use Spring Boot , Theme : Thymeleaf ,Have Responsive Theme , Ajax data
 But Js "Write Như Lìn :))))"
 
 #Run
